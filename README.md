@@ -21,7 +21,9 @@ Enlace al vídeo demostración: https://youtu.be/BtfCk-2wU9Q
 
 ## Fuentes
 Los mapas de texturas se han obtenido desde el [repositorio a CodeSandbox](https://codesandbox.io/p/sandbox/ig-s7-36r8mq) de la asignatura.
+
 Accesible también desde el [repositorio GitHub del profesor de la asignatura](https://github.com/otsedom/otsedom.github.io/blob/main/IG/S7/README.md) 
+
 Otros mapas han sido obtenidos del siguiente sitio web: https://www.solarsystemscope.com/textures/
 
 ## Autor
