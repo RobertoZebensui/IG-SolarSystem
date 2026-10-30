@@ -10,6 +10,8 @@ de la vista en la que nos encontremos.
 
 El planeta Tierra dispone de una textura de rugosidad, y una esfera transparente más grande que simula la atmósfera con nubes.
 
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/a4375781-e794-4c8d-9c17-d5b5ba517848" />
+
 ## Uso de la IA
 Se ha usado la IA para realizar consultas de ajustes de estilo para los componentes HTML.
 También se ha utilizado para consultar sobre cómo alternar entre las vistas de la escena. 
